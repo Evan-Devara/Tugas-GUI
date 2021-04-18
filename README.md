@@ -32,5 +32,37 @@ Variabele posisi != Variable Posisi
 
 ![4  Phyton bersifat case-sensitive](https://user-images.githubusercontent.com/72756374/115145720-2eb67e00-a07d-11eb-96fe-41c095f028a5.png)
 
-#5. Perintah Program (Statement)
+# 5. Perintah Program (Statement)
+Python tidak memerlukan adanya titik koma (;) pada setiap statementnya kecuali pada saat ada dua atau lebih statement pada satu baris yang sama.
 
+![5  a  Perintah Program (STATEMENT)](https://user-images.githubusercontent.com/72756374/115146445-bf428d80-a080-11eb-8c6f-85aa878013da.png)
+
+Perintah pada program ditulis dalam satu baris kode, namun tergantung programmer masing-masing dapat memecah perintah tersebut menjadi beberapa baris. Dimana setiap baris harus dihubungkan dengan tanda backslash (\).
+
+![5  b  Perintah Program (STATEMENT)](https://user-images.githubusercontent.com/72756374/115146511-03359280-a081-11eb-91a9-96a6889f4fe3.png)
+
+Tanda backslash tidak diperlukan jika kita menulis perintah kode dalam bentuk array atau kode yang terdapat diantara tanda (…), […] atau {…}.
+
+![5  c  Perintah Program (STATEMENT)](https://user-images.githubusercontent.com/72756374/115146537-18122600-a081-11eb-97c4-652d74bed1ca.png)
+
+# 6. Tipe Numerik
+A. Bilangan Bulat
+
+Dalam python terapat dua tipe bilangan bulat yaitu int dan bool. Selain tipe integral primitive python juga dapat menggunakan bilangan integral dengan basis decimal (10), biner (2), octal (8) maupun heksadesimal (16).
+
+![6  Bilangan Bulat 2](https://user-images.githubusercontent.com/72756374/115146616-7212eb80-a081-11eb-8a5e-2e28612b70bf.png)
+
+
+Tipe bilangan bulat yang kedua adalah tipe Boolean, dimana tipe data boleean bernilai true atau false.
+
+![6  Bilangan Bulat](https://user-images.githubusercontent.com/72756374/115146598-5f98b200-a081-11eb-8579-e65492e6a6d8.png)
+
+Proses perhitungan dan penambahan bilangan pada python akan menghasilkan objek baru, hal ini terlihat dari id nya.
+
+B. Bilangan Riil
+
+Python menyediakan tipe float, decimal, dan complex untuk bilangan riil
+
+![6  Bilangan Riil](https://user-images.githubusercontent.com/72756374/115146729-ed749d00-a081-11eb-84b3-2938140a79a2.png)
+
+# 7. Tipe String
