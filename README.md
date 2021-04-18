@@ -108,7 +108,7 @@ Membuat, menggabungkan dengan perulangan, dan memanggil List
 
 ![8  Tipe Koleksi 1](https://user-images.githubusercontent.com/72756374/115147430-22ceba00-a085-11eb-9a45-dd025594eb08.png)
 
-Menambah dan menghapus LisT
+Menambah dan menghapus List
 
 ![8  Tipe Koleksi 2](https://user-images.githubusercontent.com/72756374/115147444-2eba7c00-a085-11eb-8038-884798c1b1ac.png)
 
