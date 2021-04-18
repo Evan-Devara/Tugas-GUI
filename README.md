@@ -11,4 +11,5 @@ membuat serta menampilkan variabel nama dan umur
 1. Menulis kode pada text editor
 2. Menyimpan pada direktori pilihan dalam bentuk .py
 3. Panggil code disertai direktori penyimpanan
+
 ![2  hello world](https://user-images.githubusercontent.com/72756374/115145278-f01fc400-a07a-11eb-911a-54c6b8462800.png)
