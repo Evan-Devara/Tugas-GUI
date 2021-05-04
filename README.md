@@ -14,10 +14,10 @@ Kelas : S1-SE03B
 # Data Mahasiswa
 <img src = "https://github.com/Evan-Devara/Tugas-GUI/blob/Tugas-Teori/QT_Data%20Mahasiswa/Screenshot.png">
 
-*Data Mahasiswa, NIM, Nama, Jurusan, No.Telp* Menggunakan Label
+*Data Mahasiswa, NIM, Nama, Jurusan, No.Telp* -Menggunakan Label
 
-*Kotak Kosong* Menggunakan Text Browser
+*Kotak Kosong* -Menggunakan Text Browser
 
-Kotak sebelah *NIM, Nama, Jurusan, No.Telp* Menggunakan Line Edit
+Kotak sebelah *NIM, Nama, Jurusan, No.Telp* -Menggunakan Line Edit
 
-*TAMBAH, EDIT, CLEAR, HAPUS" Menggunakan Push Button
+*TAMBAH, EDIT, CLEAR, HAPUS* -Menggunakan Push Button
