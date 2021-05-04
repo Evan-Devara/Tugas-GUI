@@ -11,7 +11,7 @@ Kelas : S1-SE03B
 ![image](https://user-images.githubusercontent.com/72756374/114422808-cd0b9500-9be0-11eb-9736-afb5d748ce5e.png)
 
 # TUGAS 2 QT Design
-
+#Data Mahasiswa
 <img src = "https://github.com/Evan-Devara/Tugas-GUI/blob/Tugas-Teori/QT_Data%20Mahasiswa/Screenshot.png">
 
 *Data Mahasiswa, NIM, Nama, Jurusan, No.Telp* Menggunakan Label
